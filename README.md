@@ -19,13 +19,13 @@ This project focuses on sentiment analysis of book reviews to understand reader 
 
 ### Installation
 Clone the repository:
-```bash
+```
 git clone https://github.com/MounikaTeppola09/Sentiment-Analysis-of-Book-Reviews.git
 cd Sentiment-Analysis-Books-Reviews
-
+```
 
 Install the required dependencies:
-```bash
+```
 pip install -r requirements.txt
 ```
 
@@ -100,6 +100,5 @@ Install them using:
 ```bash
 pip install -r requirements.txt
 ```
-```
 
-This is ready for direct use in your GitHub repository’s README!
+This project aims to contribute to the growing field of sentiment analysis and provide valuable insights into reader preferences. Thank you for your interest. 
