@@ -20,8 +20,8 @@ This project focuses on sentiment analysis of book reviews to understand reader 
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/MounikaTeppola09/Sentiment-Analysis-Books.git
-cd Sentiment-Analysis-Books
+git clone https://github.com/MounikaTeppola09/Sentiment-Analysis-of-Book-Reviews.git
+cd Sentiment-Analysis-Books-Reviews
 
 
 Install the required dependencies:
